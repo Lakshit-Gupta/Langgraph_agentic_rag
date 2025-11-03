@@ -1,0 +1,4 @@
+This agentic rag is based on 3 research papers 
+SELF RAG <ADAPTIVE RAG AND  CORRECTIVE RETRIVAL AUGUMENTATION GENERATION 
+this is the github repo whihc is taken as reference to create this advance worflow
+https://github.com/mistralai/cookbook/blob/main/third_party/langchain/README.md
